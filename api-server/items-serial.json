@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Rice",
+    "Price": 25000,
+    "Size": "Large",
+    "id": 1
+  },
+  {
+    "Name": "Beans",
+    "Price": 20000,
+    "Size": "Large",
+    "id": 2
+  },
+  {
+    "Name": "Garri",
+    "Price": 10000,
+    "Size": "Large",
+    "id": 3
+  },
+  {
+    "Name": "Corn",
+    "Price": 5000,
+    "Size": "Medium",
+    "id": 4
+  },
+  {
+    "Name": "Yam",
+    "Price": 5000,
+    "Size": "Small",
+    "id": 5
+  },
+  {
+    "Name": "Potato",
+    "Price": 5000,
+    "Size": "Small",
+    "id": 6
+  }
+]
